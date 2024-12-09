@@ -11,10 +11,10 @@ Los KCD son eventos organizados por la comunidad que reúnen a adoptantes y tecn
 
 Nos encantaría contar con [compania] como patrocinador de este evento de impacto internacional. Participar como patrocinador le permitirá:
 
-    Posicionar a su empresa como líder en el uso de tecnologías nativas para la nube.
-    Conectar con una audiencia especializada en el sector tecnológico.
-    Establecer relaciones profesionales valiosas.
-    Contribuir al crecimiento de la comunidad tecnológica en Costa Rica.
+- Posicionar a su empresa como líder en el uso de tecnologías nativas para la nube.
+- Conectar con una audiencia especializada en el sector tecnológico.
+- Establecer relaciones profesionales valiosas.
+- Contribuir al crecimiento de la comunidad tecnológica en Costa Rica.
 
 Para conocer más sobre el evento, puede visitar nuestra página en LinkedIn: [KCD Costa Rica 2025 en LinkedIn](https://www.linkedin.com/posts/kcdcostarica_networking-kubernetes-activity-7265470142195654658-ByXb/?originalSubdomain=es)
 
