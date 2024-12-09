@@ -17,7 +17,7 @@ Para conocer más sobre el evento, puede visitar nuestra página en LinkedIn:
 [KCD Costa Rica 2025 en LinkedIn.](https://www.linkedin.com/posts/kcdcostarica_networking-kubernetes-activity-7265470142195654658-ByXb/?originalSubdomain=es)
 
 Además, estamos recibiendo desde ya propuestas para conferencistas interesados en compartir sus conocimientos. Si desea más información, puede visitar el enlace:
-[Convocatoria de Conferencistas](https://sessionize.com/kcd-costa-rica-2025/#:~:text=The%20Kubernetes%20Community%20Day%20(KCD,a%20vibrant%20and%20engaged%20community)
+[Convocatoria de Conferencistas](https://sessionize.com/kcd-costa-rica-2025)
 
 Adjunto encontrará nuestro Prospectus de Patrocinio, que detalla las diferentes oportunidades de colaboración y los beneficios asociados a cada nivel de patrocinio. Estamos seguros de que esta es una excelente oportunidad para que [Nombre de la Empresa] demuestre su compromiso con la innovación y la excelencia en tecnología.
 
