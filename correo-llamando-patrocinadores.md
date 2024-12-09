@@ -30,6 +30,9 @@ Le agradezco de antemano su tiempo y consideración. Estoy seguro de que juntos 
 Quedo atento a su respuesta.
 
 Saludos cordiales,
+
 Luis Salas
+
 [LinkedIn de Luis Salas](https://www.linkedin.com/in/luis-salas-32ab6259/)
+
 Organizador y Coordinador de Patrocinios Kubernetes Community Day Costa Rica 2025
