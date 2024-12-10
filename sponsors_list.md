@@ -8,5 +8,6 @@
 | Edify        | Jasson Cascante         | jasson.cascante@edify.cr          |                               |
 | Sysdig       | Sebastian               | sebastian.zumbado@sysdig.com      |                               |
 |              | Adriana Rojas           | adrianarojas.villalobos@sysdig.com|                               |
-| Palo alto    | Diana Beltran           | dbeltranbote@paloaltonetworks.com | mhodgson@tradestation.com    |
-| tradestation | Rolando Lazcares        | rlazcares@tradestation.com        |                              |
+| Palo alto    | Diana Beltran           | dbeltranbote@paloaltonetworks.com | mhodgson@tradestation.com     |
+| tradestation | Rolando Lazcares        | rlazcares@tradestation.com        |                               |
+| IBM          | Sergio                  | sergiors07@gmail.com              |                               |
